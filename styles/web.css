@@ -1,0 +1,28 @@
+/* header part */
+header{
+    background-image: url(../images/banner/banner3.png);
+    height: 800px;
+}
+
+.title{
+    padding: 150px 150px 200px 900px ;
+    text-align: end;
+}
+
+.title-1{
+    font-size: 65px;
+    color: white;
+}
+
+.title-info{
+    color: aliceblue;
+    font-size: 16px;
+    margin-bottom: 35px;
+}
+.contact{
+    padding: 17px 30px;
+    font-size: 20px;
+    color: blue;
+    border-radius: 5px;
+    border: none;
+}
