@@ -99,12 +99,22 @@ header{
 
 
 /* mind part */
-
-.mind{
+.plans{
+    margin: 100px 200px 100px 200px;
+    box-sizing: border-box;
+    
     background-image: url(../images/watch.png);
     background-repeat: no-repeat;
     height: 300px;
+    border-radius: 10px;
+    
+}
+.mind{
+    box-sizing: border-box;
     padding: 30px 50% 0 80px;
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 16%, rgba(0,212,255,0) 40%);
+    height: 300px;
+    border-radius: 10px;
 }
 
 .mind-info{
